@@ -11,3 +11,5 @@ This script only checks course status but not do enrollment for you, because of 
 2. Follow https://www.letscodemore.com/blog/smtplib-smtpauthenticationerror-username-and-password-not-accepted/ to retrieve your gmail app password, which is needed here. Google blocks people using their password outside of Google applications, so please not use your Gmail password directly.
 
 3. Run the python program, sit and wait for the email.
+
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/24618791/213000466-b7ba6480-3b89-477b-bb42-7ce8b2884d76.png">
